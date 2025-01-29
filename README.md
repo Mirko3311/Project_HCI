@@ -30,7 +30,7 @@ Aplikacija ima zadatak da pokrije osnovne potrebe studenata i profesora u vezi n
 |                          |  Unos i pregled ocjena: Profesor može dodavati ocjene za ispite za studente na svojim predmetima. Može da pregleda sve ocjene studenata na predmetima koje predaje za studente koje slušaju predmete.                                                                   |
 |                          |  Pregled rezultata studenata: Profesor može pregledati ukupne rezultate po studentu za svoje predmete, uključujući prisustvo, bodove iz zadataka i ocjene sa ispita.        |
 | **Student**              |  Pregled prisustva: Student može pregledati svoje prisustvo po predmetu, uz detalje o svakom času.                                                                           |
-|                          |  Pregled domaćih zadataka i ispita: Student može pregledati domaće zadatke za svaki predmet, uključujući rokove i rezultate (bodove ili ocene).                      |
+|                          |  Pregled domaćih zadataka i ispita: Student može pregledati domaće zadatke za svaki predmet, uključujući rokove.                      |
 |                          |  Pregled ukupnog uspjeha: Student može vidjeti svoj ukupan uspjeh po predmetu kroz zbir bodova i ocjena koje je dobio.                                                       |
 | **Svi korisnici**        |  Internacionalizacija: Sistem omogućava korisnicima da biraju između više jezika.                                                                                           |
 |                          |  Podešavanje tema: Korisnici mogu birati između svetle i tamne teme, koja se automatski čuva za svakog korisnika.                                                           |
