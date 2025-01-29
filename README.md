@@ -277,7 +277,7 @@ Kada se ** popune sva polja **, profesor pritiskom na dugme **"Dodaj"** pamti do
 
 U ovom tabu profesor može da pregleda sve domaće zadatke, iz svih predmeta koje predaje. Može da pregleda osnove informacije o svakom domaćem zadatku.
 
-![Pregled domaćeg zadatka](Screenshot/ViewHomework.JPG)
+![Pregled domaćeg zadatka](Screenshot/HomeworkAdd.JPG)
 
 
 ### Prisustvo
@@ -427,6 +427,10 @@ U tabu **Pregled Prisustva**, student može pregledati evidenciju svojih prisust
 - Nakon odabira predmeta, u tabeli će se prikazati:
   - **Datumi predavanja**.
   - **Informacija** o tome da li je student prisustvovao tim predavanjima.
+  - 
+<div align="center">
+  <img src="Screenshot/StudentAttendance.JPG" alt="Studentski pregled prisustva" width="800">
+</div>
 
 ####  Domaći zadaci
 - Ovaj tab omogućava studentu da pregleda zadatke koji su mu dodijeljeni.  U padajućem meniju, student može da izabere predmet za koje hoće da pregleda domaće zadatke.
@@ -437,7 +441,7 @@ U tabu **Pregled Prisustva**, student može pregledati evidenciju svojih prisust
 
 
 <div align="center">
-  <img src="Screenshot/ViewHomework.JPG" alt="Domaci zadatak" width="800">
+  <img src="Screenshot/HomeworkStudent.JPG" alt="Domaci zadatak" width="800">
 </div>
 
 
