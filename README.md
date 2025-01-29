@@ -427,7 +427,7 @@ U tabu **Pregled Prisustva**, student može pregledati evidenciju svojih prisust
 - Nakon odabira predmeta, u tabeli će se prikazati:
   - **Datumi predavanja**.
   - **Informacija** o tome da li je student prisustvovao tim predavanjima.
-  - 
+
 <div align="center">
   <img src="Screenshot/StudentAttendance.JPG" alt="Studentski pregled prisustva" width="800">
 </div>
@@ -463,5 +463,5 @@ U tabu **Pregled Prisustva**, student može pregledati evidenciju svojih prisust
 ### Opcija Undo i Logout
 
 U MenuBar, na samom vrhu, je ikonica za **Undo**, kojom se poništavaju prethodne akcije.
-Na samom dnu MenuBar-a je ikonica za **LogOut**. Kada korisnik dvoklikne na tu ikonicu odjaviće se se.
+Na samom dnu MenuBar-a je ikonica za **LogOut**. Kada korisnik dvoklikne na tu ikonicu odjaviće se se ili prečicom CTR+L.
 
