@@ -369,7 +369,7 @@ Funkcionalnost unosa ocjena dostupna je u tabu **"Ocjene"** i realizuje se na sl
 
 
 <div align="center">
-  <img src="Screenshot/GradeAdd.JPG" alt="Sacuvaj unos podataka " width="500">
+  <img src="Screenshot/GradeAdd.jpg" alt="Sacuvaj unos podataka " width="500">
 </div>
 
 
